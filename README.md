@@ -26,6 +26,4 @@ Run unit tests:
 ./mvnw test
 ```
 
-## Notes
-- This repository now includes a `.gitignore` to exclude `target/`, IDE files, OS artifacts, logs and temporary files.
-- Keep source files in `src/` and commit `pom.xml`, `mvnw`, and `.mvn/wrapper` so the project builds on CI and other machines.
+
